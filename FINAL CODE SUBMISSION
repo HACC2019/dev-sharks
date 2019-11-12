@@ -1,0 +1,1112 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+<title>Residential Homeowner Application</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.formstack.com/forms/css/3/ie.css?20140508" />
+<![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="all" href="https://www.formstack.com/forms/css/3/ie7.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="all" href="https://www.formstack.com/forms/css/3/ie6fixes.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" href="//static.formstack.com/forms/css/3/reset.css" />
+<link rel="stylesheet" type="text/css" href="//static.formstack.com/forms/css/3/jquery-ui.css" />
+<link rel="stylesheet" type="text/css" href="//static.formstack.com/forms/css/3/default-v4.css" />
+<link rel="stylesheet" type="text/css" href="//static.formstack.com/forms/css/3/celadonParchment.css" />
+<link rel="stylesheet" type="text/css" href="//static.formstack.com/forms/../common/css/uil-static.css" />
+<link rel="stylesheet" type="text/css" href="//static.formstack.com/forms/css/common/dialogs.css" />
+<style type="text/css">
+</style>
+</head>
+<body class="fsBody " id="fsLocal">
+<div class="fsWelcomeMessage">
+<div class="fsWelcomeMessage__image fsWelcomeMessage__sizing--stretch" style="background-image: url(https://s3.amazonaws.com/files.formstack.com/account/883317/welcome-message/3647405/welcome_message_6772_1573078305.png)"></div>
+<div class="fsWelcomeMessage__content">
+<div class="fsWelcomeMessage__message">
+<p><span style="font-family: Verdana, Geneva, sans-serif; font-size: 12px;"><strong>Created by the Department of Business, Economic Development and Tourism and the Hawaii Green Infrastructure Authority, the Hawaii Green Energy Market Securitization (GEMS) Program is bringing clean energy technologies to Hawaii ratepayers, including those who are underserved, by providing innovative financing products that result in electricity bill savings for customers with no money down.  The GEMS Program is intended to create a sustainable financing structure through market driven public-private partnerships that will open access to financing for more Hawaii customers and democratize access to clean energy.</strong></span></p>
+</div>
+<input type="button" class="fsWelcomeMessage__start-button" value="Begin Application" />
+</div>
+</div>
+<form method="post" novalidate enctype="multipart/form-data" action="https://www.formstack.com/forms/index.php" class="fsForm fsSingleColumn fsMaxCol1" id="fsForm3647405">
+<input type="hidden" name="form" value="3647405" />
+<input type="hidden" name="viewkey" value="m05HiNXgqa" />
+<input type="hidden" name="hidden_fields" id="hidden_fields3647405" value="" />
+<input type="hidden" name="_submit" value="1" />
+<input type="hidden" name="incomplete" id="incomplete3647405" value="" />
+<input type="hidden" name="incomplete_password" id="incomplete_password3647405" />
+<input type="hidden" name="style_version" value="3" />
+<input type="hidden" id="viewparam" name="viewparam" value="883317" />
+<div id="requiredFieldsError" style="display:none;">Please fill in a valid value for all required fields</div>
+<div id="invalidFormatError" style="display:none;">Please ensure all values are in a proper format.</div>
+<div id="resumeConfirm" style="display:none;">Are you sure you want to leave this form and resume later?</div>
+<div id="resumeConfirmPassword" style="display: none;">Are you sure you want to leave this form and resume later? If so, please enter a password below to securely save your form.</div>
+<div id="saveAndResume" style="display: none;">Save and Resume Later</div>
+<div id="saveResumeProcess" style="display: none;">Save and get link</div>
+<div id="fileTypeAlert" style="display:none;">You must upload one of the following file types for the selected field:</div>
+<div id="embedError" style="display:none;">There was an error displaying the form. Please copy and paste the embed code again.</div>
+<div id="applyDiscountButton" style="display:none;">Apply Discount</div>
+<div id="dcmYouSaved" style="display:none;">You saved</div>
+<div id="dcmWithCode" style="display:none;">with code</div>
+<div id="submitButtonText" style="display:none;">Submit Form</div>
+<div id="submittingText" style="display:none;">Submitting</div>
+<div id="validatingText" style="display:none;">Validating</div>
+<div id="autocaptureDisabledText" style="display:none;"></div>
+<div id="paymentInitError" style="display:none;">There was an error initializing the payment processor on this form. Please contact the form owner to correct this issue.</div>
+<div id="checkFieldPrompt" style="display:none;">Please check the field: </div>
+<div class="fsPage" id="fsPage3647405-1">
+<div id="ReactContainer3647405" style="display:none" class="FsReactContainerInitApp" data-fs-react-app-id="3647405"></div>
+<div class="fsSection fs1Col" id="fsSection84423959">
+<div class="fsSectionHeader">
+<h2 class="fsSectionHeading">Green Energy Money $aver On-Bill Program (GEM$ or Program) Residential Homeowner Application</h2>
+<div class="fsSectionText"><p>GEM$ On-Bill Program&nbsp;This GEM$ Application (Application), for residential homeowners, must be submitted and approved&nbsp;prior&nbsp;to purchasing or installing your equipment. Approval of this Application does not guarantee funding. GEM$ funding requires completed installation of the approved Energy Improvement and fulfillment of all terms and conditions contained in this Application and the GEM$ Program documents. Please complete all fields. Incomplete Applications will delay processing. Only approved Energy Improvements, which have not yet been installed are eligible for GEM$. Please submit this completed Application to HGIA along with a&nbsp;copy of your most recent electric utility bill, driver’s license or other valid government identification and lease (if applicable).</p><p>All parties listed on title to the property will need to execute program documents. Properties held in trust may be eligible for financing if all named trustees agree to the term and conditions of the GEM$ On-Bill Program. A full trust review will be performed if the property is in trust. The review is subject to a $167.54 fee per trust. Properties with multiple trusts will be subject to additional fees. Paying the trust review fee does not guarantee financing approval.</p><p>Should you have questions while completing this Application, please call HGIA at 808-587-3868.</p></div>
+</div>
+<div id="fsRow3647405-2" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84424045" lang="en" fs-field-type="checkbox" fs-field-validation-name="Pre-Application Survey: How did you hear about the GEM$ On-Bill Program? (check all that apply)">
+<fieldset role="group" aria-labelledby="fsLegend84424045" id="label84424045">
+<legend id="fsLegend84424045" class="fsLabel fsRequiredLabel fsLabelVertical"><span>Pre-Application Survey: How did you hear about the GEM$ On-Bill Program? (check all that apply)<span class="fsRequiredMarker">*</span></span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84424045_1"><input type="checkbox" id="field84424045_1" name="field84424045[]" value="Contractor" class="fsField fsRequired horizontal" aria-required="true" />Contractor</label>
+<label class="fsOptionLabel horizontal" for="field84424045_2"><input type="checkbox" id="field84424045_2" name="field84424045[]" value="Community Organization" class="fsField fsRequired horizontal" aria-required="true" />Community Organization</label>
+<label class="fsOptionLabel horizontal" for="field84424045_3"><input type="checkbox" id="field84424045_3" name="field84424045[]" value="News/Radio/TV" class="fsField fsRequired horizontal" aria-required="true" />News/Radio/TV</label>
+<label class="fsOptionLabel horizontal" for="field84424045_4"><input type="checkbox" id="field84424045_4" name="field84424045[]" value="Online (Internet)" class="fsField fsRequired horizontal" aria-required="true" />Online (Internet)</label>
+<label class="fsOptionLabel horizontal" for="field84424045_5"><input type="checkbox" id="field84424045_5" name="field84424045[]" value="Utility" class="fsField fsRequired horizontal" aria-required="true" />Utility</label>
+<label class="fsOptionLabel horizontal" for="field84424045_6"><input type="checkbox" id="field84424045_6" name="field84424045[]" value="Public Event" class="fsField fsRequired horizontal" aria-required="true" />Public Event</label>
+<label class="fsOptionLabel horizontal" for="field84424045_7"><input type="checkbox" id="field84424045_7" name="field84424045[]" value="Hawaii Energy" class="fsField fsRequired horizontal" aria-required="true" />Hawaii Energy</label>
+<label class="fsOptionLabel horizontal" for="field84424045_8"><input type="checkbox" id="field84424045_8" name="field84424045[]" value="Friends &amp; Family" class="fsField fsRequired horizontal" aria-required="true" />Friends &amp; Family</label>
+<div class="horizontal">
+<label class="fsOptionLabel horizontal" style="margin-right: 5px;" for="field84424045_other"><input type="checkbox" id="field84424045_other" name="field84424045[]" value="Other" class="fsField fsRequired" aria-required="true" />Other:</label>
+<input type="text" id="field84424045_othervalue" name="field84424045_other" size="15" class="fsOtherField" aria-required="true"            /><label class="hidden" for="field84424045_othervalue">Other Value</label>
+</div>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-3" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84424054" lang="en" fs-field-type="checkbox" fs-field-validation-name="Which of these do you have in your home? (check all that apply)">
+<fieldset role="group" aria-labelledby="fsLegend84424054" id="label84424054">
+<legend id="fsLegend84424054" class="fsLabel fsRequiredLabel fsLabelVertical"><span>Which of these do you have in your home? (check all that apply)<span class="fsRequiredMarker">*</span></span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84424054_1"><input type="checkbox" id="field84424054_1" name="field84424054[]" value="Washer" class="fsField fsRequired horizontal" aria-required="true" />Washer</label>
+<label class="fsOptionLabel horizontal" for="field84424054_2"><input type="checkbox" id="field84424054_2" name="field84424054[]" value="Dryer" class="fsField fsRequired horizontal" aria-required="true" />Dryer</label>
+<label class="fsOptionLabel horizontal" for="field84424054_3"><input type="checkbox" id="field84424054_3" name="field84424054[]" value="Kitchen Refrigerator" class="fsField fsRequired horizontal" aria-required="true" />Kitchen Refrigerator</label>
+<label class="fsOptionLabel horizontal" for="field84424054_4"><input type="checkbox" id="field84424054_4" name="field84424054[]" value="2nd Refrigerator" class="fsField fsRequired horizontal" aria-required="true" />2nd Refrigerator</label>
+<label class="fsOptionLabel horizontal" for="field84424054_5"><input type="checkbox" id="field84424054_5" name="field84424054[]" value="Solar Hot Water Heater" class="fsField fsRequired horizontal" aria-required="true" />Solar Hot Water Heater</label>
+<label class="fsOptionLabel horizontal" for="field84424054_6"><input type="checkbox" id="field84424054_6" name="field84424054[]" value="Solar PV System" class="fsField fsRequired horizontal" aria-required="true" />Solar PV System</label>
+<label class="fsOptionLabel horizontal" for="field84424054_7"><input type="checkbox" id="field84424054_7" name="field84424054[]" value="LED or CFL Light Bulbs" class="fsField fsRequired horizontal" aria-required="true" />LED or CFL Light Bulbs</label>
+<label class="fsOptionLabel horizontal" for="field84424054_8"><input type="checkbox" id="field84424054_8" name="field84424054[]" value="WIFI" class="fsField fsRequired horizontal" aria-required="true" />WIFI</label>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-4" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84424339" lang="en" fs-field-type="text" fs-field-validation-name="Age of Washer">
+<label id="label84424339" class="fsLabel" for="field84424339">Age of Washer                                                    </label>
+<input
+type="text" id="field84424339"
+name="field84424339"
+size="50"
+maxlength="2"
+value=""
+class="fsField fsFormatText    "
+disabled="disabled"
+/>
+</div>
+</div>
+<div id="fsRow3647405-5" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84424382" lang="en" fs-field-type="text" fs-field-validation-name="Age of Dryer">
+<label id="label84424382" class="fsLabel" for="field84424382">Age of Dryer                                                    </label>
+<input
+type="text" id="field84424382"
+name="field84424382"
+size="50"
+value=""
+class="fsField fsFormatText    "
+disabled="disabled"
+/>
+</div>
+</div>
+<div id="fsRow3647405-6" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84424381" lang="en" fs-field-type="text" fs-field-validation-name="Age of Kitchen Refrigerator">
+<label id="label84424381" class="fsLabel" for="field84424381">Age of Kitchen Refrigerator                                                    </label>
+<input
+type="text" id="field84424381"
+name="field84424381"
+size="50"
+value=""
+class="fsField fsFormatText    "
+disabled="disabled"
+/>
+</div>
+</div>
+<div id="fsRow3647405-7" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84424383" lang="en" fs-field-type="text" fs-field-validation-name="Age of 2nd Refrigerator ">
+<label id="label84424383" class="fsLabel" for="field84424383">Age of 2nd Refrigerator                                                     </label>
+<input
+type="text" id="field84424383"
+name="field84424383"
+size="50"
+maxlength="2"
+value=""
+class="fsField fsFormatText    "
+disabled="disabled"
+/>
+</div>
+</div>
+<div id="fsRow3647405-8" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84424384" lang="en" fs-field-type="text" fs-field-validation-name="Age of Solar Hot Water Heater">
+<label id="label84424384" class="fsLabel" for="field84424384">Age of Solar Hot Water Heater                                                    </label>
+<input
+type="text" id="field84424384"
+name="field84424384"
+size="50"
+value=""
+class="fsField fsFormatText    "
+disabled="disabled"
+/>
+</div>
+</div>
+<div id="fsRow3647405-9" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84424385" lang="en" fs-field-type="text" fs-field-validation-name="Age of Solar PV System">
+<label id="label84424385" class="fsLabel" for="field84424385">Age of Solar PV System                                                    </label>
+<input
+type="text" id="field84424385"
+name="field84424385"
+size="50"
+maxlength="2"
+value=""
+class="fsField fsFormatText    "
+disabled="disabled"
+/>
+</div>
+</div>
+<div id="fsRow3647405-10" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84424315" lang="en" fs-field-type="checkbox" fs-field-validation-name="Which energy savings product(s) would you most likely be interested in installing within the next three (3) years? (check all that apply)">
+<fieldset role="group" aria-labelledby="fsLegend84424315" id="label84424315">
+<legend id="fsLegend84424315" class="fsLabel fsLabelVertical"><span>Which energy savings product(s) would you most likely be interested in installing within the next three (3) years? (check all that apply)</span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84424315_1"><input type="checkbox" id="field84424315_1" name="field84424315[]" value="Washer" class="fsField horizontal" />Washer</label>
+<label class="fsOptionLabel horizontal" for="field84424315_2"><input type="checkbox" id="field84424315_2" name="field84424315[]" value="Dryer" class="fsField horizontal" />Dryer</label>
+<label class="fsOptionLabel horizontal" for="field84424315_3"><input type="checkbox" id="field84424315_3" name="field84424315[]" value="Kitchen Refrigerator" class="fsField horizontal" />Kitchen Refrigerator</label>
+<label class="fsOptionLabel horizontal" for="field84424315_4"><input type="checkbox" id="field84424315_4" name="field84424315[]" value="2nd Refrigerator" class="fsField horizontal" />2nd Refrigerator</label>
+<label class="fsOptionLabel horizontal" for="field84424315_5"><input type="checkbox" id="field84424315_5" name="field84424315[]" value="Solar Hot Water Heater" class="fsField horizontal" />Solar Hot Water Heater</label>
+<label class="fsOptionLabel horizontal" for="field84424315_6"><input type="checkbox" id="field84424315_6" name="field84424315[]" value="Solar PV SystemLED or CFL Light Bulbs" class="fsField horizontal" />Solar PV SystemLED or CFL Light Bulbs</label>
+<label class="fsOptionLabel horizontal" for="field84424315_7"><input type="checkbox" id="field84424315_7" name="field84424315[]" value="WIFI" class="fsField horizontal" />WIFI</label>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-11" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84471814" lang="en" fs-field-type="checkbox" fs-field-validation-name="Where are you most likely to go to get assistance or training regarding managing energy costs and finances? (check all that apply)">
+<fieldset role="group" aria-labelledby="fsLegend84471814" id="label84471814">
+<legend id="fsLegend84471814" class="fsLabel fsLabelVertical"><span>Where are you most likely to go to get assistance or training regarding managing energy costs and finances? (check all that apply)</span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84471814_1"><input type="checkbox" id="field84471814_1" name="field84471814[]" value="Church" class="fsField horizontal" />Church</label>
+<label class="fsOptionLabel horizontal" for="field84471814_2"><input type="checkbox" id="field84471814_2" name="field84471814[]" value="Community Event" class="fsField horizontal" />Community Event</label>
+<label class="fsOptionLabel horizontal" for="field84471814_3"><input type="checkbox" id="field84471814_3" name="field84471814[]" value="School/Class" class="fsField horizontal" />School/Class</label>
+<label class="fsOptionLabel horizontal" for="field84471814_4"><input type="checkbox" id="field84471814_4" name="field84471814[]" value="Online" class="fsField horizontal" />Online</label>
+<label class="fsOptionLabel horizontal" for="field84471814_5"><input type="checkbox" id="field84471814_5" name="field84471814[]" value="Accountant/Tax Preparer" class="fsField horizontal" />Accountant/Tax Preparer</label>
+<label class="fsOptionLabel horizontal" for="field84471814_6"><input type="checkbox" id="field84471814_6" name="field84471814[]" value="Financial Advisor" class="fsField horizontal" />Financial Advisor</label>
+<div class="horizontal">
+<label class="fsOptionLabel horizontal" style="margin-right: 5px;" for="field84471814_other"><input type="checkbox" id="field84471814_other" name="field84471814[]" value="Other" class="fsField" />Other:</label>
+<input type="text" id="field84471814_othervalue" name="field84471814_other" size="15" class="fsOtherField"            /><label class="hidden" for="field84471814_othervalue">Other Value</label>
+</div>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-12" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84471846" lang="en" fs-field-type="radio" fs-field-validation-name="Is there anyone you know that could benefit from lowering their energy costs?">
+<fieldset role="group" aria-labelledby="fsLegend84471846" id="label84471846">
+<legend id="fsLegend84471846" class="fsLabel fsRequiredLabel fsLabelVertical"><span>Is there anyone you know that could benefit from lowering their energy costs?<span class="fsRequiredMarker">*</span></span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84471846_1"><input type="radio" id="field84471846_1" name="field84471846" value="Yes" class="fsField fsRequired horizontal" aria-required="true" />Yes</label>
+<label class="fsOptionLabel horizontal" for="field84471846_2"><input type="radio" id="field84471846_2" name="field84471846" value="No" class="fsField fsRequired horizontal" aria-required="true" />No</label>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-13" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84471849" lang="en" fs-field-type="name" fs-field-validation-name="Name of person you would like to refer to this program:">
+<span id="label84471849" class="fsLabel">Name of person you would like to refer to this program:</span>
+<div class="fsSubFieldGroup">
+<div class="fsSubField fsNameFirst">
+<input type="text" id="field84471849-first" name="field84471849-first" size="20" aria-label="First Name" value="" class="fsField fsFieldName" disabled="disabled" />
+<label class="fsSupporting" for="field84471849-first">First Name</label>
+</div>
+<div class="fsSubField fsNameLast">
+<input type="text" id="field84471849-last" name="field84471849-last" size="20" aria-label="Last Name" value="" class="fsField fsFieldName" disabled="disabled" />
+<label class="fsSupporting" for="field84471849-last">Last Name</label>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="fsRow3647405-14" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84472233" lang="en" fs-field-type="phone" fs-field-validation-name="Phone">
+<label id="label84472233" class="fsLabel" for="field84472233">Phone                                                    </label>
+<input type="tel" id="field84472233" name="field84472233" size="2" value="" class="fsField fsFormatPhoneUS " disabled="disabled" data-country="US" data-format="national" />
+</div>
+</div>
+<div id="fsRow3647405-15" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84472246" lang="en" fs-field-type="email" fs-field-validation-name="Email">
+<label id="label84472246" class="fsLabel" for="field84472246">Email                                                    </label>
+<input type="email" id="field84472246" name="field84472246" size="50" value="" class="fsField fsFormatEmail" disabled="disabled" />
+</div>
+</div>
+<div id="fsRow3647405-16" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84423960" lang="en" fs-field-type="name" fs-field-validation-name="Ratepayer Information (Please print name(s) exactly as it appears on your utility bill. The person on the electric utility account should be the applicant)">
+<span id="label84423960" class="fsLabel fsRequiredLabel">Ratepayer Information (Please print name(s) exactly as it appears on your utility bill. The person on the electric utility account should be the applicant)<span class="fsRequiredMarker">*</span></span>
+<div class="fsSubFieldGroup">
+<div class="fsSubField fsNameFirst">
+<input type="text" id="field84423960-first" name="field84423960-first" size="20" aria-label="First Name" value="" required class="fsField fsFieldName fsRequired" aria-required="true" />
+<label class="fsSupporting fsRequiredLabel" for="field84423960-first">First Name<span class="hidden">*</span></label>
+</div>
+<div class="fsSubField fsNameMiddle">
+<input type="text" id="field84423960-middle" name="field84423960-middle" size="20" aria-label="Middle Name (optional)" value="" class="fsField fsFieldName" />
+<label class="fsSupporting" for="field84423960-middle">Middle Name (optional)</label>
+</div>
+<div class="fsSubField fsNameLast">
+<input type="text" id="field84423960-last" name="field84423960-last" size="20" aria-label="Last Name" value="" required class="fsField fsFieldName fsRequired" aria-required="true" />
+<label class="fsSupporting fsRequiredLabel" for="field84423960-last">Last Name<span class="hidden">*</span></label>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="fsRow3647405-17" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84474282" lang="en" fs-field-type="text" fs-field-validation-name="Utility Account Number">
+<label id="label84474282" class="fsLabel fsRequiredLabel" for="field84474282">Utility Account Number<span class="fsRequiredMarker">*</span>                                                    </label>
+<input
+type="text" id="field84474282"
+name="field84474282"
+size="50"
+required       value=""
+class="fsField fsFormatText fsRequired   "
+aria-required="true"     />
+</div>
+</div>
+<div id="fsRow3647405-18" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84424467" lang="en" fs-field-type="checkbox" fs-field-validation-name="Which GEM$ Approved Energy Improvement would you like to install? (check all that apply)">
+<fieldset role="group" aria-labelledby="fsLegend84424467" id="label84424467">
+<legend id="fsLegend84424467" class="fsLabel fsRequiredLabel fsLabelVertical"><span>Which GEM$ Approved Energy Improvement would you like to install? (check all that apply)<span class="fsRequiredMarker">*</span></span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84424467_1"><input type="checkbox" id="field84424467_1" name="field84424467[]" value="Solar Thermal Water Heater" class="fsField fsRequired horizontal" aria-required="true" />Solar Thermal Water Heater</label>
+<label class="fsOptionLabel horizontal" for="field84424467_2"><input type="checkbox" id="field84424467_2" name="field84424467[]" value="Solar PV Water Heater" class="fsField fsRequired horizontal" aria-required="true" />Solar PV Water Heater</label>
+<label class="fsOptionLabel horizontal" for="field84424467_3"><input type="checkbox" id="field84424467_3" name="field84424467[]" value="Heat Pump Water Heater" class="fsField fsRequired horizontal" aria-required="true" />Heat Pump Water Heater</label>
+<label class="fsOptionLabel horizontal" for="field84424467_4"><input type="checkbox" id="field84424467_4" name="field84424467[]" value="Solar PV System" class="fsField fsRequired horizontal" aria-required="true" />Solar PV System</label>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-19" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84472281" lang="en" fs-field-type="radio" fs-field-validation-name="Have you met with a GEMS Approved Contractor regarding this installation?">
+<fieldset role="group" aria-labelledby="fsLegend84472281" id="label84472281">
+<legend id="fsLegend84472281" class="fsLabel fsRequiredLabel fsLabelVertical"><span>Have you met with a GEMS Approved Contractor regarding this installation?<span class="fsRequiredMarker">*</span></span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84472281_1"><input type="radio" id="field84472281_1" name="field84472281" value="Yes" class="fsField fsRequired horizontal" aria-required="true" />Yes</label>
+<label class="fsOptionLabel horizontal" for="field84472281_2"><input type="radio" id="field84472281_2" name="field84472281" value="No" class="fsField fsRequired horizontal" aria-required="true" />No</label>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-20" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84472308" lang="en" fs-field-type="select" fs-field-validation-name="Contractor Information">
+<label id="label84472308" class="fsLabel fsRequiredLabel" for="field84472308">Contractor Information<span class="fsRequiredMarker">*</span>                                                    </label>
+<select id="field84472308" name="field84472308" size="1"required class="fsField fsRequired" aria-required="true" disabled="disabled">
+<option value="ApprovedContractor1">ApprovedContractor1</option>
+<option value="ApprovedContractor2">ApprovedContractor2</option>
+<option value="ApprovedContractor3">ApprovedContractor3</option>
+<option value="ApprovedContractor4">ApprovedContractor4</option>
+<option value="ApprovedContractor5">ApprovedContractor5</option>
+</select>
+</div>
+</div>
+<div id="fsRow3647405-21" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84423961" lang="en" fs-field-type="address" fs-field-validation-name="Installation Address (This is the address at which the proposed Energy Improvement will be installed)">
+<span id="label84423961" class="fsLabel fsRequiredLabel">Installation Address (This is the address at which the proposed Energy Improvement will be installed)<span class="fsRequiredMarker">*</span></span>
+<div class="fsSubFieldGroup">
+<div class="fsSubField fsFieldAddress">
+<input type="text" id="field84423961-address" aria-label="Address Line 1" name="field84423961-address" size="50" value="" required class="fsField fsFieldAddress fsRequired" aria-required="true" />
+<label class="fsSupporting" for="field84423961-address">Address Line 1</label>
+</div>
+<div class="fsSubField fsFieldAddress2">
+<input type="text" id="field84423961-address2" aria-label="Address Line 2" name="field84423961-address2" size="50" value="" class="fsField fsFieldAddress2" />
+<label class="fsSupporting" for="field84423961-address2">Address Line 2</label>
+</div>
+<div class="fsSubField fsFieldCity">
+<input type="text" id="field84423961-city" name="field84423961-city" size="15" aria-label="City" value="" required class="fsField fsFieldCity fsRequired" aria-required="true" />
+<label class="fsSupporting" for="field84423961-city">City</label>
+</div>
+<div class="fsSubField fsFieldState">
+<select id="field84423961-state" aria-label="State" name="field84423961-state" required class="fsField fsFieldState fsRequired" aria-required="true">
+<option value="">&nbsp;</option>
+<option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="DC">District of Columbia</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="PR">Puerto Rico</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+<option value="AA">Armed Forces (the) Americas</option>
+<option value="AE">Armed Forces Europe</option>
+<option value="AP">Armed Forces Pacific</option>
+<option value="APO">Army Post Office (U.S. Army and U.S. Air Force)</option>
+<option value="FPO">Fleet Post Office (U.S. Navy and U.S. Marine Corps)</option>
+</select>
+<label class="fsSupporting" for="field84423961-state">State</label>
+</div>
+<div class="fsSubField fsFieldZip">
+<input type="text" id="field84423961-zip" aria-label="ZIP Code" name="field84423961-zip" size="6" value="" required class="fsField fsFieldZip fsFormatZipUS fsRequired" aria-required="true" />
+<label class="fsSupporting" for="field84423961-zip">ZIP Code</label>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="fsRow3647405-22" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473396" lang="en" fs-field-type="radio" fs-field-validation-name="Is the installation address the same as your mailing address?">
+<fieldset role="group" aria-labelledby="fsLegend84473396" id="label84473396">
+<legend id="fsLegend84473396" class="fsLabel fsRequiredLabel fsLabelVertical"><span>Is the installation address the same as your mailing address?<span class="fsRequiredMarker">*</span></span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84473396_1"><input type="radio" id="field84473396_1" name="field84473396" value="Yes" class="fsField fsRequired horizontal" aria-required="true" />Yes</label>
+<label class="fsOptionLabel horizontal" for="field84473396_2"><input type="radio" id="field84473396_2" name="field84473396" value="No" class="fsField fsRequired horizontal" aria-required="true" />No</label>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-23" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84473395" lang="en" fs-field-type="address" fs-field-validation-name="Mailing Address">
+<span id="label84473395" class="fsLabel fsRequiredLabel">Mailing Address<span class="fsRequiredMarker">*</span></span>
+<div class="fsSubFieldGroup">
+<div class="fsSubField fsFieldAddress">
+<input type="text" id="field84473395-address" aria-label="Address Line 1" name="field84473395-address" size="50" value="" required class="fsField fsFieldAddress fsRequired" aria-required="true" disabled="disabled" />
+<label class="fsSupporting" for="field84473395-address">Address Line 1</label>
+</div>
+<div class="fsSubField fsFieldAddress2">
+<input type="text" id="field84473395-address2" aria-label="Address Line 2" name="field84473395-address2" size="50" value="" class="fsField fsFieldAddress2" disabled="disabled" />
+<label class="fsSupporting" for="field84473395-address2">Address Line 2</label>
+</div>
+<div class="fsSubField fsFieldCity">
+<input type="text" id="field84473395-city" name="field84473395-city" size="15" aria-label="City" value="" required class="fsField fsFieldCity fsRequired" aria-required="true" disabled="disabled" />
+<label class="fsSupporting" for="field84473395-city">City</label>
+</div>
+<div class="fsSubField fsFieldState">
+<select id="field84473395-state" aria-label="State" name="field84473395-state" required class="fsField fsFieldState fsRequired" aria-required="true" disabled="disabled">
+<option value="">&nbsp;</option>
+<option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="DC">District of Columbia</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="PR">Puerto Rico</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+<option value="AA">Armed Forces (the) Americas</option>
+<option value="AE">Armed Forces Europe</option>
+<option value="AP">Armed Forces Pacific</option>
+<option value="APO">Army Post Office (U.S. Army and U.S. Air Force)</option>
+<option value="FPO">Fleet Post Office (U.S. Navy and U.S. Marine Corps)</option>
+</select>
+<label class="fsSupporting" for="field84473395-state">State</label>
+</div>
+<div class="fsSubField fsFieldZip">
+<input type="text" id="field84473395-zip" aria-label="ZIP Code" name="field84473395-zip" size="6" value="" required class="fsField fsFieldZip fsFormatZipUS fsRequired" aria-required="true" disabled="disabled" />
+<label class="fsSupporting" for="field84473395-zip">ZIP Code</label>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="fsRow3647405-24" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473512" lang="en" fs-field-type="radio" fs-field-validation-name="Is there anyone else named on the Title to the installation address other than the applicant?">
+<fieldset role="group" aria-labelledby="fsLegend84473512" id="label84473512">
+<legend id="fsLegend84473512" class="fsLabel fsRequiredLabel fsLabelVertical"><span>Is there anyone else named on the Title to the installation address other than the applicant?<span class="fsRequiredMarker">*</span></span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84473512_1"><input type="radio" id="field84473512_1" name="field84473512" value="Yes" class="fsField fsRequired horizontal" aria-required="true" />Yes</label>
+<label class="fsOptionLabel horizontal" for="field84473512_2"><input type="radio" id="field84473512_2" name="field84473512" value="No" class="fsField fsRequired horizontal" aria-required="true" />No</label>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-25" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84473400" lang="en" fs-field-type="name" fs-field-validation-name="Name of other owner">
+<span id="label84473400" class="fsLabel fsRequiredLabel">Name of other owner<span class="fsRequiredMarker">*</span></span>
+<div class="fsSubFieldGroup">
+<div class="fsSubField fsNameFirst">
+<input type="text" id="field84473400-first" name="field84473400-first" size="20" aria-label="First Name" value="" required class="fsField fsFieldName fsRequired" aria-required="true" disabled="disabled" />
+<label class="fsSupporting fsRequiredLabel" for="field84473400-first">First Name<span class="hidden">*</span></label>
+</div>
+<div class="fsSubField fsNameLast">
+<input type="text" id="field84473400-last" name="field84473400-last" size="20" aria-label="Last Name" value="" required class="fsField fsFieldName fsRequired" aria-required="true" disabled="disabled" />
+<label class="fsSupporting fsRequiredLabel" for="field84473400-last">Last Name<span class="hidden">*</span></label>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="fsRow3647405-26" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84473417" lang="en" fs-field-type="text" fs-field-validation-name="Relationship to Applicant">
+<label id="label84473417" class="fsLabel fsRequiredLabel" for="field84473417">Relationship to Applicant<span class="fsRequiredMarker">*</span>                                                    </label>
+<input
+type="text" id="field84473417"
+name="field84473417"
+size="50"
+required       value=""
+class="fsField fsFormatText fsRequired   "
+aria-required="true"       disabled="disabled"
+/>
+</div>
+</div>
+<div id="fsRow3647405-27" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84473524" lang="en" fs-field-type="radio" fs-field-validation-name="Is there anyone else named on the Title to the installation address?">
+<fieldset role="group" aria-labelledby="fsLegend84473524" id="label84473524">
+<legend id="fsLegend84473524" class="fsLabel fsRequiredLabel fsLabelVertical"><span>Is there anyone else named on the Title to the installation address?<span class="fsRequiredMarker">*</span></span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84473524_1"><input type="radio" id="field84473524_1" name="field84473524" value="Yes" class="fsField fsRequired horizontal" aria-required="true" disabled="disabled" />Yes</label>
+<label class="fsOptionLabel horizontal" for="field84473524_2"><input type="radio" id="field84473524_2" name="field84473524" value="No" class="fsField fsRequired horizontal" aria-required="true" disabled="disabled" />No</label>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-28" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473415" lang="en" fs-field-type="name" fs-field-validation-name="Name of other owner">
+<span id="label84473415" class="fsLabel fsRequiredLabel">Name of other owner<span class="fsRequiredMarker">*</span></span>
+<div class="fsSubFieldGroup">
+<div class="fsSubField fsNameFirst">
+<input type="text" id="field84473415-first" name="field84473415-first" size="20" aria-label="First Name" value="" required class="fsField fsFieldName fsRequired" aria-required="true" />
+<label class="fsSupporting fsRequiredLabel" for="field84473415-first">First Name<span class="hidden">*</span></label>
+</div>
+<div class="fsSubField fsNameLast">
+<input type="text" id="field84473415-last" name="field84473415-last" size="20" aria-label="Last Name" value="" required class="fsField fsFieldName fsRequired" aria-required="true" />
+<label class="fsSupporting fsRequiredLabel" for="field84473415-last">Last Name<span class="hidden">*</span></label>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="fsRow3647405-29" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473404" lang="en" fs-field-type="text" fs-field-validation-name="Relationship to Applicant">
+<label id="label84473404" class="fsLabel fsRequiredLabel" for="field84473404">Relationship to Applicant<span class="fsRequiredMarker">*</span>                                                    </label>
+<input
+type="text" id="field84473404"
+name="field84473404"
+size="50"
+required       value=""
+class="fsField fsFormatText fsRequired   "
+aria-required="true"     />
+</div>
+</div>
+<div id="fsRow3647405-30" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84472681" lang="en" fs-field-type="radio" fs-field-validation-name="On which island is this located?">
+<fieldset role="group" aria-labelledby="fsLegend84472681" id="label84472681">
+<legend id="fsLegend84472681" class="fsLabel fsRequiredLabel fsLabelVertical"><span>On which island is this located?<span class="fsRequiredMarker">*</span></span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84472681_1"><input type="radio" id="field84472681_1" name="field84472681" value="Oahu" class="fsField fsRequired horizontal" aria-required="true" />Oahu</label>
+<label class="fsOptionLabel horizontal" for="field84472681_2"><input type="radio" id="field84472681_2" name="field84472681" value="Maui" class="fsField fsRequired horizontal" aria-required="true" />Maui</label>
+<label class="fsOptionLabel horizontal" for="field84472681_3"><input type="radio" id="field84472681_3" name="field84472681" value="Lanai" class="fsField fsRequired horizontal" aria-required="true" />Lanai</label>
+<label class="fsOptionLabel horizontal" for="field84472681_4"><input type="radio" id="field84472681_4" name="field84472681" value="Molokai" class="fsField fsRequired horizontal" aria-required="true" />Molokai</label>
+<label class="fsOptionLabel horizontal" for="field84472681_5"><input type="radio" id="field84472681_5" name="field84472681" value="Hawaii" class="fsField fsRequired horizontal" aria-required="true" />Hawaii</label>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-31" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84472710" lang="en" fs-field-type="radio" fs-field-validation-name="Type of Residence">
+<fieldset role="group" aria-labelledby="fsLegend84472710" id="label84472710">
+<legend id="fsLegend84472710" class="fsLabel fsRequiredLabel fsLabelVertical"><span>Type of Residence<span class="fsRequiredMarker">*</span></span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84472710_1"><input type="radio" id="field84472710_1" name="field84472710" value="Single Family Dwelling" class="fsField fsRequired horizontal" aria-required="true" />Single Family Dwelling</label>
+<label class="fsOptionLabel horizontal" for="field84472710_2"><input type="radio" id="field84472710_2" name="field84472710" value="Duplex" class="fsField fsRequired horizontal" aria-required="true" />Duplex</label>
+<label class="fsOptionLabel horizontal" for="field84472710_3"><input type="radio" id="field84472710_3" name="field84472710" value="Townhouse" class="fsField fsRequired horizontal" aria-required="true" />Townhouse</label>
+<label class="fsOptionLabel horizontal" for="field84472710_4"><input type="radio" id="field84472710_4" name="field84472710" value="Apartment" class="fsField fsRequired horizontal" aria-required="true" />Apartment</label>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-32" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84472720" aria-describedby="fsSupporting84472720" lang="en" fs-field-type="number" fs-field-validation-name="What is your Annual Household (HH) Income?">
+<label id="label84472720" class="fsLabel fsRequiredLabel" for="field84472720">What is your Annual Household (HH) Income?<span class="fsRequiredMarker">*</span>                                                    </label>
+<span class="fsCurrency fsCurrencyPrefix"></span>
+<input type="number" step="any" id="field84472720" name="field84472720"  required class="fsField fsFormatNumber fsNumberDecimals-0 fsRequired" aria-required="true" />
+<span class="fsCurrency fsCurrencySuffix"></span>
+<div id="fsSupporting84472720" class="fsSupporting"> Please include income from all person(s) occupying the home</div>
+</div>
+</div>
+<div id="fsRow3647405-33" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473237" lang="en" fs-field-type="number" fs-field-validation-name="What is the total number of people occupying the home?">
+<label id="label84473237" class="fsLabel fsRequiredLabel" for="field84473237">What is the total number of people occupying the home?<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="number" step="any" id="field84473237" name="field84473237"  required class="fsField fsFormatNumber fsNumberDecimals-0 fsRequired" aria-required="true" />
+</div>
+</div>
+<div id="fsRow3647405-34" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473238" lang="en" fs-field-type="number" fs-field-validation-name="Of this total, how many are Adults?">
+<label id="label84473238" class="fsLabel fsRequiredLabel" for="field84473238">Of this total, how many are Adults?<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="number" step="any" id="field84473238" name="field84473238"  required class="fsField fsFormatNumber fsNumberDecimals-0 fsRequired" aria-required="true" />
+</div>
+</div>
+<div id="fsRow3647405-35" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473269" lang="en" fs-field-type="number" fs-field-validation-name="Of the adults indicated, how many are retired?">
+<label id="label84473269" class="fsLabel fsRequiredLabel" for="field84473269">Of the adults indicated, how many are retired?<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="number" step="any" id="field84473269" name="field84473269"  required class="fsField fsFormatNumber fsNumberDecimals-0 fsRequired" aria-required="true" />
+</div>
+</div>
+<div id="fsRow3647405-36" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473271" lang="en" fs-field-type="number" fs-field-validation-name="Ages 5 or Younger:">
+<label id="label84473271" class="fsLabel fsRequiredLabel" for="field84473271">Ages 5 or Younger:<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="number" step="any" id="field84473271" name="field84473271"  required class="fsField fsFormatNumber fsNumberDecimals-0 fsRequired" aria-required="true" />
+</div>
+</div>
+<div id="fsRow3647405-37" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473274" lang="en" fs-field-type="number" fs-field-validation-name="Ages 6 to 12:">
+<label id="label84473274" class="fsLabel fsRequiredLabel" for="field84473274">Ages 6 to 12:<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="number" step="any" id="field84473274" name="field84473274"  required class="fsField fsFormatNumber fsNumberDecimals-0 fsRequired" aria-required="true" />
+</div>
+</div>
+<div id="fsRow3647405-38" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473281" lang="en" fs-field-type="number" fs-field-validation-name="Ages 13 to 17:">
+<label id="label84473281" class="fsLabel fsRequiredLabel" for="field84473281">Ages 13 to 17:<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="number" step="any" id="field84473281" name="field84473281"  required class="fsField fsFormatNumber fsNumberDecimals-0 fsRequired" aria-required="true" />
+</div>
+</div>
+<div id="fsRow3647405-39" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473377" lang="en" fs-field-type="number" fs-field-validation-name="Number of Household Members at Work/School During the Day?">
+<label id="label84473377" class="fsLabel fsRequiredLabel" for="field84473377">Number of Household Members at Work/School During the Day?<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="number" step="any" id="field84473377" name="field84473377"  required class="fsField fsFormatNumber fsNumberDecimals-0 fsRequired" aria-required="true" />
+</div>
+</div>
+<div id="fsRow3647405-40" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473379" lang="en" fs-field-type="number" fs-field-validation-name="Number of Household Members at Work/School During the Night?">
+<label id="label84473379" class="fsLabel fsRequiredLabel" for="field84473379">Number of Household Members at Work/School During the Night?<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="number" step="any" id="field84473379" name="field84473379"  required class="fsField fsFormatNumber fsNumberDecimals-0 fsRequired" aria-required="true" />
+</div>
+</div>
+<div id="fsRow3647405-41" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473381" lang="en" fs-field-type="number" fs-field-validation-name="Number of Household Members at Home During the Day?">
+<label id="label84473381" class="fsLabel fsRequiredLabel" for="field84473381">Number of Household Members at Home During the Day?<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="number" step="any" id="field84473381" name="field84473381"  required class="fsField fsFormatNumber fsNumberDecimals-0 fsRequired" aria-required="true" />
+</div>
+</div>
+<div id="fsRow3647405-42" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473383" lang="en" fs-field-type="number" fs-field-validation-name="Number of Household Members Working From Home?">
+<label id="label84473383" class="fsLabel fsRequiredLabel" for="field84473383">Number of Household Members Working From Home?<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="number" step="any" id="field84473383" name="field84473383"  required class="fsField fsFormatNumber fsNumberDecimals-0 fsRequired" aria-required="true" />
+</div>
+</div>
+<div id="fsRow3647405-43" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473386" lang="en" fs-field-type="text" fs-field-validation-name="Employer's Name:">
+<label id="label84473386" class="fsLabel fsRequiredLabel" for="field84473386">Employer's Name:<span class="fsRequiredMarker">*</span>                                                    </label>
+<input
+type="text" id="field84473386"
+name="field84473386"
+size="50"
+required       value=""
+class="fsField fsFormatText fsRequired   "
+aria-required="true"     />
+</div>
+</div>
+<div id="fsRow3647405-44" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473387" lang="en" fs-field-type="text" fs-field-validation-name="Occupation/Position">
+<label id="label84473387" class="fsLabel fsRequiredLabel" for="field84473387">Occupation/Position<span class="fsRequiredMarker">*</span>                                                    </label>
+<input
+type="text" id="field84473387"
+name="field84473387"
+size="50"
+required       value=""
+class="fsField fsFormatText fsRequired   "
+aria-required="true"     />
+</div>
+</div>
+<div id="fsRow3647405-45" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84423962" lang="en" fs-field-type="phone" fs-field-validation-name="Work Number:">
+<label id="label84423962" class="fsLabel fsRequiredLabel" for="field84423962">Work Number:<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="tel" id="field84423962" name="field84423962" size="15" required value="" class="fsField fsFormatPhoneUS  fsRequired" aria-required="true" data-country="US" data-format="national" />
+</div>
+</div>
+<div id="fsRow3647405-46" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84423963" lang="en" fs-field-type="email" fs-field-validation-name="Applicant's Email">
+<label id="label84423963" class="fsLabel fsRequiredLabel" for="field84423963">Applicant's Email<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="email" id="field84423963" name="field84423963" size="50" required="required" value="" class="fsField fsFormatEmail fsRequired" aria-required="true" />
+</div>
+</div>
+<div id="fsRow3647405-47" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473392" lang="en" fs-field-type="phone" fs-field-validation-name="Applicant's Home Phone">
+<label id="label84473392" class="fsLabel fsRequiredLabel" for="field84473392">Applicant's Home Phone<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="tel" id="field84473392" name="field84473392" size="2" required value="" class="fsField fsFormatPhoneUS  fsRequired" aria-required="true" data-country="US" data-format="national" />
+</div>
+</div>
+<div id="fsRow3647405-48" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473393" lang="en" fs-field-type="phone" fs-field-validation-name="Applicant's Cell Phone">
+<label id="label84473393" class="fsLabel fsRequiredLabel" for="field84473393">Applicant's Cell Phone<span class="fsRequiredMarker">*</span>                                                    </label>
+<input type="tel" id="field84473393" name="field84473393" size="2" required value="" class="fsField fsFormatPhoneUS  fsRequired" aria-required="true" data-country="US" data-format="national" />
+</div>
+</div>
+<div id="fsRow3647405-49" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473609" lang="en" fs-field-type="textarea" fs-field-validation-name="Name of Entity(ies) or Person(s) who will claim Tax Credit">
+<label id="label84473609" class="fsLabel fsRequiredLabel" for="field84473609">Name of Entity(ies) or Person(s) who will claim Tax Credit<span class="fsRequiredMarker">*</span>                                                    </label>
+<textarea id="field84473609"
+class="fsField fsRequired "
+name="field84473609"
+rows="10"
+cols="50"
+required aria-required="true"                                                            ></textarea>
+</div>
+</div>
+<div id="fsRow3647405-50" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473612" lang="en" fs-field-type="radio" fs-field-validation-name="Is the entity(ies) or person(s) claiming the tax credit one of the Property Owner(s)?">
+<fieldset role="group" aria-labelledby="fsLegend84473612" id="label84473612">
+<legend id="fsLegend84473612" class="fsLabel fsRequiredLabel fsLabelVertical"><span>Is the entity(ies) or person(s) claiming the tax credit one of the Property Owner(s)?<span class="fsRequiredMarker">*</span></span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84473612_1"><input type="radio" id="field84473612_1" name="field84473612" value="Yes" class="fsField fsRequired horizontal" aria-required="true" />Yes</label>
+<label class="fsOptionLabel horizontal" for="field84473612_2"><input type="radio" id="field84473612_2" name="field84473612" value="No" class="fsField fsRequired horizontal" aria-required="true" />No</label>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-51" class="fsRow fsFieldRow fsLastRow fsHidden">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsHidden fsSpan100" id="fsCell84473618" aria-describedby="fsSupporting84473618" lang="en" fs-field-type="textarea" fs-field-validation-name="If the entity(ies) or person(s) claiming the Tax Credit is not one for the Property Owner(s), please indicate relationship to Owner(s):">
+<label id="label84473618" class="fsLabel fsRequiredLabel" for="field84473618">If the entity(ies) or person(s) claiming the Tax Credit is not one for the Property Owner(s), please indicate relationship to Owner(s):<span class="fsRequiredMarker">*</span>                                                    </label>
+<textarea id="field84473618"
+class="fsField fsRequired "
+name="field84473618"
+rows="10"
+cols="50"
+required aria-required="true"                                                  disabled="disabled"          ></textarea>
+<div id="fsSupporting84473618" class="fsSupporting">*Please check with your tax advisor. Please also have the name of the system owner added to the EI contract (along with the utility account holder).</div>
+</div>
+</div>
+<div id="fsRow3647405-52" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473653" lang="en" fs-field-type="richtext" fs-field-validation-name="">
+<p><strong>DISCLOSURE AND AGREEMENT REGARDING GEM$ APPLICATION</strong></p><p>By completing and submitting an Application, I certify that I have read, understand, and agree to all of the terms and conditions of the GEM$ Program. By signing below, I certify that all information provided on this Application is true, correct and complete. If necessary, I further agree to provide additional information to HGIA to review this Application. I hereby authorize HGIA to retain this Application whether or not it is approved.</p><p>I further agree, that HGIA may communicate and share with the Contractor identified in Section 4 above, or subsequently identified by me to HGIA, and disclose orally and/or in writing, the following information regarding this Application: energy usage history; whether this Application has been pre- approved by HGIA and any additional items requested by HGIA in order to complete the processing of my request; whether this Application has been approved by HGIA so that my Contractor(s) can proceed with scheduling the work; and whether this Application has been denied so that the Contractor(s) can determine if there is other financing available and whether I intend to proceed.</p><p>I understand and agree that HGIA does not guarantee the security of any data submitted electronically and will not be held responsible or liable for interception by third parties. I understand and agree that in no event will HGIA be liable for any technical, hardware or software failure of any kind, any interruption in the availability of this service, any delay in operation or transmission, any incomplete transmission, computer virus, loss of data, or other similarloss.</p><p>As an agency of the State of Hawaii, HGIA is subject to section 92F-12(a)(8) of the Hawaii Revised Statutes, which requires agencies to collect and make available upon request “the name, address and occupation of any person borrowing funds from a state or county loan program and the amount, purpose, and current status of the loan.”</p><p>I also authorize and grant HGIA unrestricted permission to share the information provided on this Application and subsequent Program information related to the on-bill obligation (OBO), which will be the amount financed by HGIA to install the approved Energy Improvement, until the OBO is paid in full, with HGIA’s Servicing Agent, HGIA’s Board of Directors, my electric utility, the Public Benefits Fund Administrator (currently known as Hawaii Energy) and the State of Hawaii.</p><p>I understand I must meet all eligibility criteria and requirements, including at least an estimated 10% net utility bill savings for each Energy Improvement requested and utilize a GEMS Approved Contractor in order to participate in GEM$.</p><p>The federal Equal Credit Opportunity Act (ECOA) prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The federal agency that administers compliance with this law concerning this creditor is the Federal Trade Commission Consumer Response Center Washington, DC 20580 1‐877‐FTC‐HELP (1‐877‐382‐4357) TDD: 1‐866‐&nbsp;653‐4261&nbsp;www.ftc.gov.</p><p>By signing this Application, I confirm that I have received HGIA’s Privacy Notice as part of this Application packet. I also agree that I may, but am not required to, agree to and accept the terms of this Application by electronic means, and that my submission of this Application by electronic means shall be sufficient evidence of my agreement to do so by electronic means.</p>
+</div>
+</div>
+<div id="fsRow3647405-53" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84474624" aria-describedby="fsSupporting84474624" lang="en" fs-field-type="signature" fs-field-validation-name="Signature">
+<label id="label84474624" class="fsLabel fsRequiredLabel" for="field84474624">Signature<span class="fsRequiredMarker">*</span>                                                    </label>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="//formstack.com/forms/js/3/jsignature/flashcanvas.js"></script>
+<![endif]-->
+<!--[if gte IE 9]>
+<script type="text/javascript">
+if (document.documentMode < 9){
+var url = '<script type="text/javascript" src="' + '//formstack.com/forms/' + 'js/3/jsignature/flashcanvas.js"><\/script>';
+document.write(url);
+}
+</script>
+<![endif]-->
+<div id="signature84474624" class="fsSignature"></div>
+<div style="text-align: right"><a href="javascript://" class="fsSignatureClear" id="signatureClear84474624">
+[clear]
+</a></div>
+<input type="hidden" id="field84474624" name="field84474624" required class="fsField fsRequired" aria-required="true" />
+<div id="fsSupporting84474624" class="fsSupporting">Use your mouse or finger to draw your signature above</div>
+</div>
+</div>
+</div>
+<div class="fsSection fs1Col" id="fsSection84423966">
+<div class="fsSectionHeader">
+<h2 class="fsSectionHeading">Authorization for Release of Information</h2>
+<div class="fsSectionText"><p style="text-align: center;"><strong>HGIA Green Energy Money $aver On-Bill Program (Eligibility and Ongoing Participation)</strong></p></div>
+</div>
+<div id="fsRow3647405-55" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473667" lang="en" fs-field-type="name" fs-field-validation-name="Customer Name (Please print name exactly as it appears on your utility bill)">
+<span id="label84473667" class="fsLabel fsRequiredLabel">Customer Name (Please print name exactly as it appears on your utility bill)<span class="fsRequiredMarker">*</span></span>
+<div class="fsSubFieldGroup">
+<div class="fsSubField fsNameFirst">
+<input type="text" id="field84473667-first" name="field84473667-first" size="20" aria-label="First Name" value="" required class="fsField fsFieldName fsRequired" aria-required="true" />
+<label class="fsSupporting fsRequiredLabel" for="field84473667-first">First Name<span class="hidden">*</span></label>
+</div>
+<div class="fsSubField fsNameMiddle">
+<input type="text" id="field84473667-middle" name="field84473667-middle" size="20" aria-label="Middle Name (optional)" value="" class="fsField fsFieldName" />
+<label class="fsSupporting" for="field84473667-middle">Middle Name (optional)</label>
+</div>
+<div class="fsSubField fsNameLast">
+<input type="text" id="field84473667-last" name="field84473667-last" size="20" aria-label="Last Name" value="" required class="fsField fsFieldName fsRequired" aria-required="true" />
+<label class="fsSupporting fsRequiredLabel" for="field84473667-last">Last Name<span class="hidden">*</span></label>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="fsRow3647405-56" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84423967" lang="en" fs-field-type="address" fs-field-validation-name="Service Address  (Please print Service Address exactly as it appears on your utility bill)">
+<span id="label84423967" class="fsLabel fsRequiredLabel">Service Address  (Please print Service Address exactly as it appears on your utility bill)<span class="fsRequiredMarker">*</span></span>
+<div class="fsSubFieldGroup">
+<div class="fsSubField fsFieldAddress">
+<input type="text" id="field84423967-address" aria-label="Address Line 1" name="field84423967-address" size="50" value="" required class="fsField fsFieldAddress fsRequired" aria-required="true" />
+<label class="fsSupporting" for="field84423967-address">Address Line 1</label>
+</div>
+<div class="fsSubField fsFieldAddress2">
+<input type="text" id="field84423967-address2" aria-label="Address Line 2" name="field84423967-address2" size="50" value="" class="fsField fsFieldAddress2" />
+<label class="fsSupporting" for="field84423967-address2">Address Line 2</label>
+</div>
+<div class="fsSubField fsFieldCity">
+<input type="text" id="field84423967-city" name="field84423967-city" size="15" aria-label="City" value="" required class="fsField fsFieldCity fsRequired" aria-required="true" />
+<label class="fsSupporting" for="field84423967-city">City</label>
+</div>
+<div class="fsSubField fsFieldState">
+<select id="field84423967-state" aria-label="State" name="field84423967-state" required class="fsField fsFieldState fsRequired" aria-required="true">
+<option value="">&nbsp;</option>
+<option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="DC">District of Columbia</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="PR">Puerto Rico</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+<option value="AA">Armed Forces (the) Americas</option>
+<option value="AE">Armed Forces Europe</option>
+<option value="AP">Armed Forces Pacific</option>
+<option value="APO">Army Post Office (U.S. Army and U.S. Air Force)</option>
+<option value="FPO">Fleet Post Office (U.S. Navy and U.S. Marine Corps)</option>
+</select>
+<label class="fsSupporting" for="field84423967-state">State</label>
+</div>
+<div class="fsSubField fsFieldZip">
+<input type="text" id="field84423967-zip" aria-label="ZIP Code" name="field84423967-zip" size="6" value="" required class="fsField fsFieldZip fsFormatZipUS fsRequired" aria-required="true" />
+<label class="fsSupporting" for="field84423967-zip">ZIP Code</label>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="fsRow3647405-57" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473683" lang="en" fs-field-type="radio" fs-field-validation-name="Utility">
+<fieldset role="group" aria-labelledby="fsLegend84473683" id="label84473683">
+<legend id="fsLegend84473683" class="fsLabel fsRequiredLabel fsLabelVertical"><span>Utility<span class="fsRequiredMarker">*</span></span></legend>
+<div class="fieldset-content">
+<label class="fsOptionLabel horizontal" for="field84473683_1"><input type="radio" id="field84473683_1" name="field84473683" value="Hawaiian Electric" class="fsField fsRequired horizontal" aria-required="true" />Hawaiian Electric</label>
+<label class="fsOptionLabel horizontal" for="field84473683_2"><input type="radio" id="field84473683_2" name="field84473683" value="Maui Electric" class="fsField fsRequired horizontal" aria-required="true" />Maui Electric</label>
+<label class="fsOptionLabel horizontal" for="field84473683_3"><input type="radio" id="field84473683_3" name="field84473683" value="Hawai&#039;i Electric Light" class="fsField fsRequired horizontal" aria-required="true" />Hawai&#039;i Electric Light</label>
+</div></fieldset>
+</div>
+</div>
+<div id="fsRow3647405-58" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473701" lang="en" fs-field-type="text" fs-field-validation-name="Utility Account Number">
+<label id="label84473701" class="fsLabel fsRequiredLabel" for="field84473701">Utility Account Number<span class="fsRequiredMarker">*</span>                                                    </label>
+<input
+type="text" id="field84473701"
+name="field84473701"
+size="50"
+required       value=""
+class="fsField fsFormatText fsRequired   "
+aria-required="true"     />
+</div>
+</div>
+<div id="fsRow3647405-59" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473705" lang="en" fs-field-type="richtext" fs-field-validation-name="">
+<p>I am applying to participate in the Hawaii Green Infrastructure Authority’s (“HGIA”) Green Energy Money $aver On-Bill Program (“Program”). As part of the Program, HGIA needs access to my utility bill information. I understand that information about my utility bill will be shared with HGIA, both initially to evaluate my application and on an on-going basis for as long as I am a participant in the Program. I hereby authorize the utility indicated above to release the following information to HGIA and any of its representatives, agents, and contractors for the Program:</p><ul><li>Information to identify my account, including account numbers and identifiers for my service address.</li><li>Bill history information, including prior disconnects, months of active service, the start date and any future move-out date.</li><li>Information about my current bill and payment, including the dates, amounts, and document numbers.</li><li>Rate information, including whether there is an interconnection agreement for this location, the rate schedule and tariff.</li></ul><p>Information about my utility bill will be handled confidentially by HGIA, its representatives, agents and contractors for the Program.</p><p>I understand that my authorization will remain effective from the date of my signature until my application evaluation is complete, and for as long as I am a participant in the Program and an on-bill obligation is outstanding at the service address identified above. I also understand that information and data collected may be used to assess the Program’s effectiveness and results, which will be anonymized and aggregated, and may be included in Program reports provided to the Hawaii Public Utilities Commission.</p><p>I have read and understand the nature of this authorization.</p>
+</div>
+</div>
+<div id="fsRow3647405-60" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84473711" lang="en" fs-field-type="name" fs-field-validation-name="Name of Customer">
+<span id="label84473711" class="fsLabel fsRequiredLabel">Name of Customer<span class="fsRequiredMarker">*</span></span>
+<div class="fsSubFieldGroup">
+<div class="fsSubField fsNameFirst">
+<input type="text" id="field84473711-first" name="field84473711-first" size="20" aria-label="First Name" value="" required class="fsField fsFieldName fsRequired" aria-required="true" />
+<label class="fsSupporting fsRequiredLabel" for="field84473711-first">First Name<span class="hidden">*</span></label>
+</div>
+<div class="fsSubField fsNameMiddle">
+<input type="text" id="field84473711-middle" name="field84473711-middle" size="20" aria-label="Middle Name (optional)" value="" class="fsField fsFieldName" />
+<label class="fsSupporting" for="field84473711-middle">Middle Name (optional)</label>
+</div>
+<div class="fsSubField fsNameLast">
+<input type="text" id="field84473711-last" name="field84473711-last" size="20" aria-label="Last Name" value="" required class="fsField fsFieldName fsRequired" aria-required="true" />
+<label class="fsSupporting fsRequiredLabel" for="field84473711-last">Last Name<span class="hidden">*</span></label>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="fsRow3647405-61" class="fsRow fsFieldRow fsLastRow">
+<div class="fsRowBody fsCell fsFieldCell fsFirst fsLast fsLabelVertical fsSpan100" id="fsCell84474627" aria-describedby="fsSupporting84474627" lang="en" fs-field-type="signature" fs-field-validation-name="Signature">
+<label id="label84474627" class="fsLabel fsRequiredLabel" for="field84474627">Signature<span class="fsRequiredMarker">*</span>                                                    </label>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="//formstack.com/forms/js/3/jsignature/flashcanvas.js"></script>
+<![endif]-->
+<!--[if gte IE 9]>
+<script type="text/javascript">
+if (document.documentMode < 9){
+var url = '<script type="text/javascript" src="' + '//formstack.com/forms/' + 'js/3/jsignature/flashcanvas.js"><\/script>';
+document.write(url);
+}
+</script>
+<![endif]-->
+<div id="signature84474627" class="fsSignature"></div>
+<div style="text-align: right"><a href="javascript://" class="fsSignatureClear" id="signatureClear84474627">
+[clear]
+</a></div>
+<input type="hidden" id="field84474627" name="field84474627" required class="fsField fsRequired" aria-required="true" />
+<div id="fsSupporting84474627" class="fsSupporting">Use your mouse or finger to draw your signature above</div>
+</div>
+</div>
+</div>
+</div>
+<div id="fsSaveIncomplete3647405" class="fsSaveIncomplete">
+<a href="javascript://">Save and Resume Later</a>
+</div>
+<div id="fsSubmit3647405" class="fsSubmit fsPagination">
+<button type="button" id="fsPreviousButton3647405" class="fsPreviousButton" value="Previous Page" style="display:none;" aria-label="Previous"><span class="fsFull">Previous</span><span class="fsSlim">&larr;</span></button>
+<button type="button" id="fsNextButton3647405" class="fsNextButton" value="Next Page" style="display:none;" aria-label="Next"><span class="fsFull">Next</span><span class="fsSlim">&rarr;</span></button>
+<input id="fsSubmitButton3647405"
+class="fsSubmitButton"
+style="display: block;"
+type="submit"
+value="Submit Form" />
+<div id="fsProgress3647405" class="fsProgress">
+<div id="fsProgressBarContainer3647405" class="fsProgressBarContainer" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" role="progressbar">
+<div id="fsProgressBar3647405" class="fsProgressBar" lang="en"></div>
+<div id="fsProgressText3647405" class="fsProgressText">Progress</div>
+</div>
+</div>
+<div style="color:#333;background-color:#fff;border:1px solid #ccc; width:167px;margin:10px auto;padding:5px 10px 5px 5px;-moz-border-radius:5px;-webkit-border-radius:5px;-o-border-radius:5px;border-radius:5px;font-family:Helvetica,Arial,sans-serif;font-size:11px" class="stacklock" lang="en">
+<img width="18" height="18" src="https://www.formstack.com/admin/images/stacklock.png" align="absmiddle" alt="Form secured by Formstack" />
+<div style="float: right;margin-top: 4px;">
+Form secured by
+<a href="http://www.formstack.com/try-formstack?utm_source=stacklock&utm_medium=product&utm_campaign=product+branding&fa=stacklock,3647405" target="_blank" rel="noopener nofollow" style="color:green;font-weight:bold">
+Formstack
+</a>
+</div>
+</div>
+<div class="clear"></div>
+<div class="withAds">
+</div>
+</div>
+<script type="text/javascript">
+window.FS_FIELD_DATA_3647405 = [];
+</script>
+<script type="text/javascript" src="//static.formstack.com/forms/js/3/jquery.min.js" ></script>
+<script type="text/javascript" src="//static.formstack.com/forms/js/3/jquery-ui.min.js" ></script>
+<script type="text/javascript" src="//static.formstack.com/forms/js/3/scripts.js" ></script>
+<script type="text/javascript" src="//static.formstack.com/forms/js/3/analytics.js" ></script>
+<script type="text/javascript" src="//static.formstack.com/forms/js/3/jsignature/jSignature.min.js" ></script>
+<script type="text/javascript" src="//static.formstack.com/forms/js/3/google-phone-lib.js" ></script>
+<script type="text/javascript">
+(function() {
+if (typeof sessionStorage !== 'undefined' && sessionStorage.fsFonts) {
+document.documentElement.className = document.documentElement.className += ' wf-active';
+}
+var pre = document.createElement('link');
+pre.rel  = 'preconnect';
+pre.href = 'https://fonts.googleapis.com/';
+pre.setAttribute('crossorigin', '');
+var s = document.getElementsByTagName('head')[0];
+s.appendChild(pre);
+var fontConfig = {
+google: {
+families: [
+'Droid Sans:400,700'
+]
+},
+timeout: 2000,
+active: function() {
+if (typeof sessionStorage === 'undefined') {
+return;
+}
+sessionStorage.fsFonts = true;
+}
+};
+if (typeof WebFont === 'undefined') {
+window.WebFontConfig = fontConfig;
+var wf = document.createElement('script');
+wf.type  = 'text/javascript';
+wf.async = 'true';
+wf.src   = ('https:' == document.location.protocol ? 'https' : 'http') +
+'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+s.appendChild(wf);
+} else {
+WebFont.load(fontConfig);
+}
+})();
+if(window.addEventListener) {
+window.addEventListener('load', loadFormstack, false);
+} else if(window.attachEvent) {
+window.attachEvent('onload', loadFormstack);
+} else {
+loadFormstack();
+}
+function loadFormstack() {
+var form3647405 = new Formstack.Form(3647405, 'https://www.formstack.com/forms/');
+form3647405.checks.push({target: '84424339', action: 'Show', bool: 'AND', fields: ['84424054'],checks: [{field: '84424054', condition: '==', option: 'Washer'}]});
+form3647405.checks.push({target: '84424382', action: 'Show', bool: 'AND', fields: ['84424054'],checks: [{field: '84424054', condition: '==', option: 'Dryer'}]});
+form3647405.checks.push({target: '84424381', action: 'Show', bool: 'AND', fields: ['84424054'],checks: [{field: '84424054', condition: '==', option: 'Kitchen Refrigerator'}]});
+form3647405.checks.push({target: '84424383', action: 'Show', bool: 'AND', fields: ['84424054'],checks: [{field: '84424054', condition: '==', option: '2nd Refrigerator'}]});
+form3647405.checks.push({target: '84424384', action: 'Show', bool: 'AND', fields: ['84424054'],checks: [{field: '84424054', condition: '==', option: 'Solar Hot Water Heater'}]});
+form3647405.checks.push({target: '84424385', action: 'Show', bool: 'AND', fields: ['84424054'],checks: [{field: '84424054', condition: '==', option: 'Solar PV System'}]});
+form3647405.checks.push({target: '84471849', action: 'Show', bool: 'AND', fields: ['84471846'],checks: [{field: '84471846', condition: '==', option: 'Yes'}]});
+form3647405.checks.push({target: '84472233', action: 'Show', bool: 'AND', fields: ['84471846'],checks: [{field: '84471846', condition: '==', option: 'Yes'}]});
+form3647405.checks.push({target: '84472246', action: 'Show', bool: 'AND', fields: ['84471846'],checks: [{field: '84471846', condition: '==', option: 'Yes'}]});
+form3647405.checks.push({target: '84472308', action: 'Show', bool: 'AND', fields: ['84472281'],checks: [{field: '84472281', condition: '==', option: 'Yes'}]});
+form3647405.checks.push({target: '84473395', action: 'Show', bool: 'AND', fields: ['84473396'],checks: [{field: '84473396', condition: '==', option: 'No'}]});
+form3647405.checks.push({target: '84473400', action: 'Show', bool: 'AND', fields: ['84473512'],checks: [{field: '84473512', condition: '==', option: 'Yes'}]});
+form3647405.checks.push({target: '84473417', action: 'Show', bool: 'AND', fields: ['84473512'],checks: [{field: '84473512', condition: '==', option: 'Yes'}]});
+form3647405.checks.push({target: '84473524', action: 'Show', bool: 'AND', fields: ['84473512'],checks: [{field: '84473512', condition: '==', option: 'Yes'}]});
+form3647405.checks.push({target: '84473618', action: 'Show', bool: 'AND', fields: ['84473612'],checks: [{field: '84473612', condition: '==', option: 'No'}]});
+form3647405.logicFields = ['84473612','84473512','84473396','84472281','84471846','84424054'];
+form3647405.calcFields = [];
+form3647405.dateCalcFields = [];
+form3647405.init();
+if (Formstack.Analytics) {
+form3647405.plugins.analytics = new Formstack.Analytics('https://www.formstack.com', 3647405, form3647405);
+form3647405.plugins.analytics.trackTouch();
+form3647405.plugins.analytics.trackBottleneck();
+}
+window.form3647405 = form3647405;
+};
+</script>
+</form>
+<p style="display:block;width:128px;height:48px;margin:18px auto;" lang="en"><a href="http://www.formstack.com/?fa=f,3647405" target="_blank"  style="display:block;width:128px;height:48px;" title="Powered by Formstack Online Forms"><img src="https://www.formstack.com/forms/images/2/poweredByFormstack.png" alt="Formstack Online Forms" style="border:0; vertical-align: text-top;" /><span style="display:none;">Formstack Online Forms</span></a></p>
+<div class="fs-ngdialog fs-modal-small fs-form-dialog fs-form-dialog--hidden">
+<div class="fs-ngdialog-overlay"></div>
+<div class="fs-ngdialog-content">
+<div class="fs-modal__top fs-form-dialog__title"></div>
+<div class="fs-modal__middle">
+<div class="fs-form-dialog__message"></div>
+<label class="hidden"
+for="fsSaveResumePassword">Enter your save and resume password</label>
+<input type="password"
+id="fsSaveResumePassword"
+class="fs-form-input fs-form-dialog__password fs-form-dialog--hidden fs--mt20" placeholder="Enter your save and resume password">
+<textarea class="fs-form-dialog__textarea fs-form-dialog--hidden" rows="3" style="width: 100%; margin-top: 10px" aria-label="Add an optional comment"></textarea>
+</div>
+<div class="fs-modal__bottom">
+<a class="fs-form-dialog__cancel fs-btn2 fs-btn2--size_medium fs-btn2--style_edit-dark" title="Cancel">
+<div class="fs-btn2__content">
+<div class="fs-btn2__text">
+<span class="fs-form-dialog__button-text">Cancel</span>
+</div>
+</div>
+</a>
+<a class="fs-form-dialog__confirm fs-btn2 fs-btn2--size_medium fs-btn2--style_create fs--float-right" title="Confirm">
+<div class="fs-btn2__content">
+<div class="fs-btn2__text">
+<span class="fs-form-dialog__button-text">Confirm</span>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</body>
+</html>
